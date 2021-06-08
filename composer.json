@@ -1,0 +1,13 @@
+{
+    "name": "danilo/php-sqs-example",
+    "description": "Amazon SQS Example - How to use it!",
+    "require": {
+        "aws/aws-sdk-php": "^3.183"
+    },
+    "authors": [
+        {
+            "name": "Danilo Pereira",
+            "email": "danilo4web@gmail.com"
+        }
+    ]
+}
